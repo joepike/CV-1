@@ -16,9 +16,9 @@ From debugging propieratory software to considering how the use of cadcam softwa
 
 #### Makers Academy (November 2017 - February 2018)
 
-Interest in code developed as a byproduct of my use of software for a job and my inclination to avoid repetitive tasks, which set the ball rolling for me trying to automate some of these tasks.
+My interest in code developed as a byproduct of my inclination to avoid repetitive tasks when using software at work which set the ball rolling for attempting to automate out some of the repetition.  Since then I've found that programming appeals to my exploratory nature - probing a problem, using analysis techniques to gain more data, forming a testable model, then driving a solutuon using TDD. Makers has provided me with the techniques to become a programmer with a far more robust and considered approach - following TDD, SOLID principles and Agile/XP values.
 
-Im an independent learner since I begun the process of automating the use of cadcam software as a solo endeavour with no outside help or input.
+I am naturally inquisitive which lends itself to being an independent learner - my energy finds an outlet in pursuing a goal whether solo or as a team it doesn't matter - I rely on my self-discipline to come at a problem consistently and from every angle. 
 
 Im a great collaborator as I always maintain high energy and positivity, an open mind, willingness to learn, and willingness to be wrong. Ask any of my fellow makers graduates.
 
@@ -41,10 +41,10 @@ Dissertation project:
 Block copolymer and peptide synthesis and self-assembly, for potential use in drug delivery systems. Acquired competence in the planning, design and execution of experiments and developed an ability to work independently and be self-critical in the evaluation of risks, experimental procedures and outcomes
 
 
-#### Any other qualifications
-
 ## Experience
 
 **Oxford Lasers** (February 2013 - April 2017)    
 Applications Engineer  
+
+Automating the use of cadcam software as a solo endeavour with no outside help or input, and delivered a technical product in the form of a macro which was then used team-wide to perform a task in 10s which normally would have taken 20 minutes. As this was the most common time sapping repetitve task for the team this resulted in time savings for the business.
   
