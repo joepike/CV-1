@@ -16,7 +16,7 @@ From debugging propieratory software to considering how the use of cadcam softwa
 
 #### Makers Academy (November 2017 - February 2018)
 
-Interest in code developed as a byproduct of my use of software for a job and my inclination to not do repetitive tasks, which blossomed into trying to automate the majority of my everyday tasks. Once the ball was rolling my curious nature lead me then to refactoring (didn't know the term at the time) and improving the code.
+Interest in code developed as a byproduct of my use of software for a job and my inclination to avoid repetitive tasks, which set the ball rolling for me trying to automate some of these tasks.
 
 Im an independent learner since I begun the process of automating the use of cadcam software as a solo endeavour with no outside help or input.
 
@@ -27,17 +27,24 @@ Im a great collaborator as I always maintain high energy and positivity, an open
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Liverpool (September 2009 - July 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Engineering Applications of Lasers MSc(Eng) (2012 - 2013), 2:1
+
+Masters project - three months developing, constructing and testing a novel optical setup for characterising the strength of multiple holographic optical traps using a camera-based particle tracking method. Built an optical system to translate, modify and focus a laser beam using polarizers, waveplates, mirrors, lenses and a spatial light modulator. Collated, analysed and interpreted range of experimental data for project report and defence.
+
+
+Chemistry Bsc (2009 - 2012), 2:1
+
+Dissertation project:
+
+Block copolymer and peptide synthesis and self-assembly, for potential use in drug delivery systems. Acquired competence in the planning, design and execution of experiments and developed an ability to work independently and be self-critical in the evaluation of risks, experimental procedures and outcomes
+
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Oxford Lasers** (February 2013 - April 2017)    
+Applications Engineer  
+  
