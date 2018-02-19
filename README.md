@@ -16,11 +16,11 @@ From debugging propieratory software to considering how the use of cadcam softwa
 
 #### Makers Academy (November 2017 - February 2018)
 
-Interest in code developed as a byproduct of my use of software for a job and my inclination to not do repetitive tasks, which blossomed into trying to improve 
+Interest in code developed as a byproduct of my use of software for a job and my inclination to not do repetitive tasks, which blossomed into trying to automate the majority of my everyday tasks. Once the ball was rolling my curious nature lead me then to refactoring (didn't know the term at the time) and improving the code.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Im an independent learner since I begun the process of automating the use of cadcam software as a solo endeavour with no outside help or input.
+
+Im a great collaborator as I always maintain high energy and positivity, an open mind, willingness to learn, and willingness to be wrong. Ask any of my fellow makers graduates.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
