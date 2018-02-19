@@ -44,6 +44,11 @@ Chemistry Bsc (2009 - 2012), 2:1
 
 Dissertation project - Block copolymer and peptide synthesis and self-assembly, for potential use in drug delivery systems. Acquired competence in the planning, design and execution of experiments and developed an ability to work independently and be self-critical in the evaluation of risks, experimental procedures and outcomes
 
+#### Beths Grammar School 
+
+Chemistry - A
+Maths - B
+Biology - B
 
 ## Experience
 
