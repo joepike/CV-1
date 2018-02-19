@@ -27,18 +27,22 @@ Im a great collaborator as I always maintain high energy and positivity, an open
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+| Project  | Description | Technologies | Testing |
+| ------------- | ------------- | ------------- | ------------- |
+| [Poker Bot](https://github.com/joepike/poker-bot)  | Created a bot to play heads up hold em poker against a player on a GUI | Java, Swing | Junit, Mockito |
+| [Angery](https://github.com/joepike/ange.ry)  | Had the task of designing a yelp based app in rails within a week  | Rails | Capybara |
+| [Tic-Tac-Toe](https://github.com/joepike/tic-tac-toe-tech-test)  | Tic-Tac-Toe game as a web app  | Javascript, JQuery | Jasmine |
+| [Mapstagram](https://github.com/joepike/instagram-challenge)  | Instagram based web-app for maps  | Ruby on Rails | Rspec |
+
 #### University of Liverpool (September 2009 - July 2013)
 
 Engineering Applications of Lasers MSc(Eng) (2012 - 2013), 2:1
 
-Masters project - three months developing, constructing and testing a novel optical setup for characterising the strength of multiple holographic optical traps using a camera-based particle tracking method. Built an optical system to translate, modify and focus a laser beam using polarizers, waveplates, mirrors, lenses and a spatial light modulator. Collated, analysed and interpreted range of experimental data for project report and defence.
-
+Masters project - three months developing, constructing and testing a novel optical setup for characterising the strength of multiple holographic optical traps using a camera-based particle tracking method. Collated, analysed and interpreted range of experimental data for project report and defence.
 
 Chemistry Bsc (2009 - 2012), 2:1
 
-Dissertation project:
-
-Block copolymer and peptide synthesis and self-assembly, for potential use in drug delivery systems. Acquired competence in the planning, design and execution of experiments and developed an ability to work independently and be self-critical in the evaluation of risks, experimental procedures and outcomes
+Dissertation project - Block copolymer and peptide synthesis and self-assembly, for potential use in drug delivery systems. Acquired competence in the planning, design and execution of experiments and developed an ability to work independently and be self-critical in the evaluation of risks, experimental procedures and outcomes
 
 
 ## Experience
